@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://prnt.sc/kIfQqT23ggxT" height="200"><br/>
+ <img src="https://prnt.sc/kIfQqT23ggxT">
 A powerful Account Checker made in bash<br/>
 
 
@@ -17,5 +17,6 @@ Open setup.bat after that open Bottle(BETA).py
 
 ## Screenshot
 
-<img src="/logo.png">
+<img src="https://prnt.sc/kIfQqT23ggxT">
+
 
