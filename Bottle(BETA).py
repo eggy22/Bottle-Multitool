@@ -15,7 +15,7 @@ print("\033[0m")  # Reset text color
 
 print("\033[1;34m")  # Set text color to bright blue
 print("""━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[1] UrlFlooder\n[2] Webhook Spammer\n[3] Nuker\n[4] IP Address Lookup\n[5] IP Pinger\n[6] IP Loggers\n[7] Screenshot Grabber\n[8] WebHook Remover\n[9] Linkvertise bypasser(NEW)
+[1] UrlFlooder\n[2] Webhook Spammer\n[3] Nuker\n[4] IP Address Lookup\n[5] IP Pinger\n[6] IP Loggers\n[7] Screenshot Grabber\n[8] WebHook Remover\n[9] Linkvertise bypasser(NEW)\n[10] Coming Soon..
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━""")
 print("\033[0m")  # Reset text color
 
@@ -45,6 +45,8 @@ while True:
         from data import webhookremover
     elif q =='9':
         from data import linkvertex
+    elif q=='10':
+        input("chill my g")
 
     else:
         print("invalid character")
