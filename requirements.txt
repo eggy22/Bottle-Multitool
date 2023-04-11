@@ -1,0 +1,11 @@
+colorama
+colored
+discord
+times
+urllib3==1.26.13
+pycopy-webbrowser
+asyncio
+random2
+requests
+threaded
+os-sys
