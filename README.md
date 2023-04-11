@@ -33,4 +33,5 @@ Thanks for using my tool:)
 ## Screenshot
 ![Screenshot_4](https://user-images.githubusercontent.com/106061655/231189993-f7481efe-c618-4c24-b69a-583e3cfe55c2.png)
 
+Please note that the infos and information contained in this program is for educational purposes only and should not be used to unauthorized / illegal activities. The developer and contributors are not responsible for any misuse of this software.
 
