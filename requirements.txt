@@ -16,7 +16,6 @@ auto-py-to-exe==2.22.0
 beautifulsoup4==4.11.1
 blinker==1.5
 blobfile==2.0.1
-bloxflippredictor==3.1.4
 bottle==0.12.23
 bottle-websocket==0.2.9
 Brotli==1.0.9
@@ -232,8 +231,6 @@ torchvision==0.14.0
 tqdm==4.64.0
 trio==0.22.0
 trio-websocket==0.9.2
-TwoCaptcha==0.0.1
-typing_extensions==4.5.0
 ui==0.1.4
 urllib3==1.26.13
 virtualenv==20.14.1
