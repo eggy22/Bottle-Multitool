@@ -1,6 +1,6 @@
 colorama
 colored
-discord
+discord.py==1.7.3
 times
 urllib3==1.26.13
 pycopy-webbrowser
