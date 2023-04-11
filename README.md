@@ -4,7 +4,7 @@
 ![Screenshot_3](https://user-images.githubusercontent.com/106061655/231189548-b0067f5a-ba76-4ed4-b0ec-255a23377d07.png)
 
 
-A powerful Account Checker made in bash<br/>
+A powerful Multitool made with python<br/>
 
 
 ## Installing
