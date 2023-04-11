@@ -1,6 +1,7 @@
 <p align="center">
  
-![Screenshot_1](https://user-images.githubusercontent.com/106061655/231189097-07a1f734-344c-405c-95ea-e6d7b986cd41.png)
+![Screenshot_2](https://user-images.githubusercontent.com/106061655/231189354-0621dc6e-c6bd-43bc-b540-cf70074a81e8.png)
+
 
 A powerful Account Checker made in bash<br/>
 
