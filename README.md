@@ -26,7 +26,12 @@ Just open the setup.bat
 * IP Loggers
 * Screenshot Grabber
 * WebHook Remover
-* Coming Soon..
+* Linkvertise bypasser
+* View wifi pass
+* pass gen
+* fake info gen
+* url shorten
+* qr code gen
  
 If there is any error dm eggy#8081 on discord 
 Thanks for using my tool:)
