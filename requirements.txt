@@ -1,4 +1,9 @@
 2captcha-python==1.1.2
+requests
+PIL
+discord
+Pillow
+qrcode
 absl-py==1.3.0
 aiohttp==3.7.4.post0
 aiosignal==1.3.1
