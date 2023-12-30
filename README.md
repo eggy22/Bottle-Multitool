@@ -33,7 +33,7 @@ Just open the setup.bat
 * url shorten
 * qr code gen
  
-If there is any error dm eggy#8081 on discord 
+If there is any error dm eggy8081 on discord 
 Thanks for using my tool:)
 
 
