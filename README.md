@@ -13,7 +13,7 @@ A powerful Multitool made with python<br/>
  
 
 ```
-Just open the setup.bat
+dm eggy8081 in discord for more information 
 ```
 
 ## Main features
